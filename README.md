@@ -127,7 +127,12 @@ Once configured, you can ask Claude:
 
 ## License
 
-MIT License - feel free to use and modify! # MCP-Repo-Manager-
+## License
+
+MIT License - feel free to use and modify!
+
+---
+
+# mcp-integration-server
 
 MCP server integrating GitHub repos, Google Calendar & Gmail. Create/manage repos, calendar events & emails via JSON-RPC.
-# mcp-integration-server
