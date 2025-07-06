@@ -2,6 +2,14 @@
 
 A Model Context Protocol (MCP) server that allows AI assistants to create and delete GitHub repositories.
 
+
+
+YOUTUBE DEMO 
+
+https://www.youtube.com/watch?v=hujbMUsrPSk&ab_channel=AmanuelTefera
+
+
+
 ## Features
 
 - ✅ **Create GitHub repositories** with customizable settings
